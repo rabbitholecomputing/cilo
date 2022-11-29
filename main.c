@@ -29,7 +29,7 @@ void start_bootloader()
 
     buf[128] = '\0';
     kernel[48] = '\0';
-
+//test
     /* determine amount of RAM present */
     c_putc('I');
 
